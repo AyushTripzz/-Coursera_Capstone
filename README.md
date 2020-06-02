@@ -1,2 +1,2 @@
 # -Coursera_Capstone
-hello gihub!
+hello github!
